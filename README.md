@@ -1,3 +1,5 @@
+## 📌 MEMORY GAME
+
 A simple, interactive **Memory Game** developed as a desktop application to help improve concentration and short-term memory skills. The project is built entirely using **Python** with the **Tkinter** library for the graphical user interface.
 
 ## 📑 Table of Contents
